@@ -2,6 +2,16 @@
     <img src="pts-page.png" style="border-radius: 40px ;">
 </h1>
 
-## SOBRE
+## 🟥 Sobre  
 
-**Login Page** com implementação de animações
+**Login Page** com implementação de responsividade, estruturação de página e divisão de elementos utilizando ferramentas de **HTML** e **CSS**.
+
+
+## 🏹 Qual o objetivo do projeto?
+
+Utilizar conhecimentos de HTML e CSS para a construção de uma página responsiva e com desing minimalista.
+
+## 🔨 Tools
+
+- HTML
+- CSS
