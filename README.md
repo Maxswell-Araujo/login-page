@@ -9,7 +9,7 @@
 
 ## 🏹 Qual o objetivo do projeto?
 
-Utilizar conhecimentos de HTML e CSS para a construção de uma página responsiva e com desing minimalista.
+Utilizar conhecimentos de HTML e CSS para a construção de uma página responsiva e com design minimalista.
 
 ## 🔨 Tools
 
